@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\WHILE_task\bin\Debug\WHILE_task.exe.config
+D:\Visual Studio\works\С#\WHILE_task\bin\Debug\WHILE_task.exe
+D:\Visual Studio\works\С#\WHILE_task\bin\Debug\WHILE_task.pdb
+D:\Visual Studio\works\С#\WHILE_task\obj\Debug\WHILE_task.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\WHILE_task\obj\Debug\WHILE_task.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\WHILE_task\obj\Debug\WHILE_task.exe
+D:\Visual Studio\works\С#\WHILE_task\obj\Debug\WHILE_task.pdb

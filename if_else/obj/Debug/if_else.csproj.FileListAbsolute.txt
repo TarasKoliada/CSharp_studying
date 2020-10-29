@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\if_else\bin\Debug\if_else.exe.config
+D:\Visual Studio\works\С#\if_else\bin\Debug\if_else.exe
+D:\Visual Studio\works\С#\if_else\bin\Debug\if_else.pdb
+D:\Visual Studio\works\С#\if_else\obj\Debug\if_else.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\if_else\obj\Debug\if_else.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\if_else\obj\Debug\if_else.exe
+D:\Visual Studio\works\С#\if_else\obj\Debug\if_else.pdb

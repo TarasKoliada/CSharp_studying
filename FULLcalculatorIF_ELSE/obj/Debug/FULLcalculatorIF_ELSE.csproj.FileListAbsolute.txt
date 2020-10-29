@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\FULLcalculatorIF_ELSE\bin\Debug\ConsoleApp1.exe.config
+D:\Visual Studio\works\С#\FULLcalculatorIF_ELSE\bin\Debug\ConsoleApp1.exe
+D:\Visual Studio\works\С#\FULLcalculatorIF_ELSE\bin\Debug\ConsoleApp1.pdb
+D:\Visual Studio\works\С#\FULLcalculatorIF_ELSE\obj\Debug\FULLcalculatorIF_ELSE.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\FULLcalculatorIF_ELSE\obj\Debug\FULLcalculatorIF_ELSE.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\FULLcalculatorIF_ELSE\obj\Debug\ConsoleApp1.exe
+D:\Visual Studio\works\С#\FULLcalculatorIF_ELSE\obj\Debug\ConsoleApp1.pdb

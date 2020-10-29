@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Convertor\bin\Debug\Convertor.exe.config
+D:\Visual Studio\works\С#\Convertor\bin\Debug\Convertor.exe
+D:\Visual Studio\works\С#\Convertor\bin\Debug\Convertor.pdb
+D:\Visual Studio\works\С#\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Convertor\obj\Debug\Convertor.exe
+D:\Visual Studio\works\С#\Convertor\obj\Debug\Convertor.pdb
+D:\Visual Studio\works\С#\Convertor\obj\Debug\Convertor.csprojAssemblyReference.cache

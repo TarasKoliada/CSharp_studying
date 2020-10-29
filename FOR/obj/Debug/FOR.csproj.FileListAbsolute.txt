@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\FOR\bin\Debug\FOR.exe.config
+D:\Visual Studio\works\С#\FOR\bin\Debug\FOR.exe
+D:\Visual Studio\works\С#\FOR\bin\Debug\FOR.pdb
+D:\Visual Studio\works\С#\FOR\obj\Debug\FOR.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\FOR\obj\Debug\FOR.exe
+D:\Visual Studio\works\С#\FOR\obj\Debug\FOR.pdb
+D:\Visual Studio\works\С#\FOR\obj\Debug\FOR.csprojAssemblyReference.cache

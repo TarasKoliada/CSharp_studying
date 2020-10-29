@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\dodavannia_mnozhennia\bin\Debug\dodavannia_mnozhennia.exe.config
+D:\Visual Studio\works\С#\dodavannia_mnozhennia\bin\Debug\dodavannia_mnozhennia.exe
+D:\Visual Studio\works\С#\dodavannia_mnozhennia\bin\Debug\dodavannia_mnozhennia.pdb
+D:\Visual Studio\works\С#\dodavannia_mnozhennia\obj\Debug\dodavannia_mnozhennia.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\dodavannia_mnozhennia\obj\Debug\dodavannia_mnozhennia.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\dodavannia_mnozhennia\obj\Debug\dodavannia_mnozhennia.exe
+D:\Visual Studio\works\С#\dodavannia_mnozhennia\obj\Debug\dodavannia_mnozhennia.pdb

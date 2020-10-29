@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Operator_SWITCH\bin\Debug\Operator_SWITCH.exe.config
+D:\Visual Studio\works\С#\Operator_SWITCH\bin\Debug\Operator_SWITCH.exe
+D:\Visual Studio\works\С#\Operator_SWITCH\bin\Debug\Operator_SWITCH.pdb
+D:\Visual Studio\works\С#\Operator_SWITCH\obj\Debug\Operator_SWITCH.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Operator_SWITCH\obj\Debug\Operator_SWITCH.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Operator_SWITCH\obj\Debug\Operator_SWITCH.exe
+D:\Visual Studio\works\С#\Operator_SWITCH\obj\Debug\Operator_SWITCH.pdb

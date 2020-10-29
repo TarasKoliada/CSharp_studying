@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\FULLcalculatorSwitch\bin\Debug\FULLcalculator.exe.config
+D:\Visual Studio\works\С#\FULLcalculatorSwitch\bin\Debug\FULLcalculator.exe
+D:\Visual Studio\works\С#\FULLcalculatorSwitch\bin\Debug\FULLcalculator.pdb
+D:\Visual Studio\works\С#\FULLcalculatorSwitch\obj\Debug\FULLcalculatorSWITCH.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\FULLcalculatorSwitch\obj\Debug\FULLcalculatorSWITCH.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\FULLcalculatorSwitch\obj\Debug\FULLcalculator.exe
+D:\Visual Studio\works\С#\FULLcalculatorSwitch\obj\Debug\FULLcalculator.pdb

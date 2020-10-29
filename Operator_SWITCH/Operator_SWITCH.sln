@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_SWITCH", "Operator_SWITCH.csproj", "{ED946855-7083-4291-BE78-BF07CF81AA26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_SWITCH2", "..\Operator_SWITCH2\Operator_SWITCH2.csproj", "{29E48E29-DE58-45A4-AFD9-1D2450E37698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_SWITCH_withENUM", "..\Operator_SWITCH_withENUM\Operator_SWITCH_withENUM.csproj", "{15A4032E-96FE-4DE3-B59F-8718DE6C68E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FULLcalculator", "..\FULLcalculator\FULLcalculator.csproj", "{28864B8E-3161-48CD-9A63-46CDD3E6B7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED946855-7083-4291-BE78-BF07CF81AA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED946855-7083-4291-BE78-BF07CF81AA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED946855-7083-4291-BE78-BF07CF81AA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED946855-7083-4291-BE78-BF07CF81AA26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E48E29-DE58-45A4-AFD9-1D2450E37698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E48E29-DE58-45A4-AFD9-1D2450E37698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E48E29-DE58-45A4-AFD9-1D2450E37698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E48E29-DE58-45A4-AFD9-1D2450E37698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A4032E-96FE-4DE3-B59F-8718DE6C68E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A4032E-96FE-4DE3-B59F-8718DE6C68E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A4032E-96FE-4DE3-B59F-8718DE6C68E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A4032E-96FE-4DE3-B59F-8718DE6C68E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28864B8E-3161-48CD-9A63-46CDD3E6B7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28864B8E-3161-48CD-9A63-46CDD3E6B7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28864B8E-3161-48CD-9A63-46CDD3E6B7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28864B8E-3161-48CD-9A63-46CDD3E6B7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F6827D-E5CB-4F1D-BC27-195360C4D9CD}
+	EndGlobalSection
+EndGlobal

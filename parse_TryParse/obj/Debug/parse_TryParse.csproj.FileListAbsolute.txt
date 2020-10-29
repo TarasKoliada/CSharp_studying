@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\parse_TryParse\bin\Debug\parse_TryParse.exe.config
+D:\Visual Studio\works\С#\parse_TryParse\bin\Debug\parse_TryParse.exe
+D:\Visual Studio\works\С#\parse_TryParse\bin\Debug\parse_TryParse.pdb
+D:\Visual Studio\works\С#\parse_TryParse\obj\Debug\parse_TryParse.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\parse_TryParse\obj\Debug\parse_TryParse.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\parse_TryParse\obj\Debug\parse_TryParse.exe
+D:\Visual Studio\works\С#\parse_TryParse\obj\Debug\parse_TryParse.pdb

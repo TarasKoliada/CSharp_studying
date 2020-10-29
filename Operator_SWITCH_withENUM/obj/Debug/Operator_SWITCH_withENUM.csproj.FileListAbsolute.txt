@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\Operator_SWITCH_withENUM\bin\Debug\Operator_SWITCH_withENUM.exe.config
+D:\Visual Studio\works\С#\Operator_SWITCH_withENUM\bin\Debug\Operator_SWITCH_withENUM.exe
+D:\Visual Studio\works\С#\Operator_SWITCH_withENUM\bin\Debug\Operator_SWITCH_withENUM.pdb
+D:\Visual Studio\works\С#\Operator_SWITCH_withENUM\obj\Debug\Operator_SWITCH_withENUM.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Operator_SWITCH_withENUM\obj\Debug\Operator_SWITCH_withENUM.exe
+D:\Visual Studio\works\С#\Operator_SWITCH_withENUM\obj\Debug\Operator_SWITCH_withENUM.pdb

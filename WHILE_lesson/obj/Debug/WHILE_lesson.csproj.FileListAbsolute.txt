@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\WHILE_lesson\bin\Debug\WHILE_lesson.exe.config
+D:\Visual Studio\works\С#\WHILE_lesson\bin\Debug\WHILE_lesson.exe
+D:\Visual Studio\works\С#\WHILE_lesson\bin\Debug\WHILE_lesson.pdb
+D:\Visual Studio\works\С#\WHILE_lesson\obj\Debug\WHILE_lesson.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\WHILE_lesson\obj\Debug\WHILE_lesson.exe
+D:\Visual Studio\works\С#\WHILE_lesson\obj\Debug\WHILE_lesson.pdb
+D:\Visual Studio\works\С#\WHILE_lesson\obj\Debug\WHILE_lesson.csprojAssemblyReference.cache
