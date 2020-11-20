@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Ref_resize_array\bin\Debug\Ref_resize_array.exe.config
+D:\Visual Studio\works\С#\Ref_resize_array\bin\Debug\Ref_resize_array.exe
+D:\Visual Studio\works\С#\Ref_resize_array\bin\Debug\Ref_resize_array.pdb
+D:\Visual Studio\works\С#\Ref_resize_array\obj\Debug\Ref_resize_array.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Ref_resize_array\obj\Debug\Ref_resize_array.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Ref_resize_array\obj\Debug\Ref_resize_array.exe
+D:\Visual Studio\works\С#\Ref_resize_array\obj\Debug\Ref_resize_array.pdb

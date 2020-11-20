@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Cycles\bin\Debug\Cycles.exe.config
+D:\Visual Studio\works\С#\Cycles\bin\Debug\Cycles.exe
+D:\Visual Studio\works\С#\Cycles\bin\Debug\Cycles.pdb
+D:\Visual Studio\works\С#\Cycles\obj\Debug\Cycles.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Cycles\obj\Debug\Cycles.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Cycles\obj\Debug\Cycles.exe
+D:\Visual Studio\works\С#\Cycles\obj\Debug\Cycles.pdb

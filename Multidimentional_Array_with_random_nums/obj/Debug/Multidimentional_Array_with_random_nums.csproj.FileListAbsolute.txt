@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\Multidimentional_Array_with_random_nums\bin\Debug\Multidimentional_Array_with_random_nums.exe.config
+D:\Visual Studio\works\С#\Multidimentional_Array_with_random_nums\bin\Debug\Multidimentional_Array_with_random_nums.exe
+D:\Visual Studio\works\С#\Multidimentional_Array_with_random_nums\bin\Debug\Multidimentional_Array_with_random_nums.pdb
+D:\Visual Studio\works\С#\Multidimentional_Array_with_random_nums\obj\Debug\Multidimentional_Array_with_random_nums.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Multidimentional_Array_with_random_nums\obj\Debug\Multidimentional_Array_with_random_nums.exe
+D:\Visual Studio\works\С#\Multidimentional_Array_with_random_nums\obj\Debug\Multidimentional_Array_with_random_nums.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\Array_Creating_from_console\bin\Debug\Array_Creating_from_console.exe.config
+D:\Visual Studio\works\С#\Array_Creating_from_console\bin\Debug\Array_Creating_from_console.exe
+D:\Visual Studio\works\С#\Array_Creating_from_console\bin\Debug\Array_Creating_from_console.pdb
+D:\Visual Studio\works\С#\Array_Creating_from_console\obj\Debug\Array_Creating_from_console.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Array_Creating_from_console\obj\Debug\Array_Creating_from_console.exe
+D:\Visual Studio\works\С#\Array_Creating_from_console\obj\Debug\Array_Creating_from_console.pdb

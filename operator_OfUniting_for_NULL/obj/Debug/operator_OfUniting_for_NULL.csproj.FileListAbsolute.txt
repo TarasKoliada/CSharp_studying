@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\operator_OfUniting_for_NULL\bin\Debug\operator_OfUniting_for_NULL.exe.config
+D:\Visual Studio\works\С#\operator_OfUniting_for_NULL\bin\Debug\operator_OfUniting_for_NULL.exe
+D:\Visual Studio\works\С#\operator_OfUniting_for_NULL\bin\Debug\operator_OfUniting_for_NULL.pdb
+D:\Visual Studio\works\С#\operator_OfUniting_for_NULL\obj\Debug\operator_OfUniting_for_NULL.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\operator_OfUniting_for_NULL\obj\Debug\operator_OfUniting_for_NULL.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\operator_OfUniting_for_NULL\obj\Debug\operator_OfUniting_for_NULL.exe
+D:\Visual Studio\works\С#\operator_OfUniting_for_NULL\obj\Debug\operator_OfUniting_for_NULL.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_4_lesson", "Array_4_lesson.csproj", "{7DEBD0AA-F243-4D4C-A50A-6F204425B725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional_Array_form_keyboard", "..\Multidimensional_Array_form_keyboard\Multidimensional_Array_form_keyboard.csproj", "{A08FE526-7F98-4A2D-9068-EADB47A94970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimentional_Array_with_random_nums", "..\Multidimentional_Array_with_random_nums\Multidimentional_Array_with_random_nums.csproj", "{6DC029B4-E26E-44F2-9C9B-B1C3E7507B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jagged_array", "..\jagged_array\jagged_array.csproj", "{9F98DCD0-0BE0-4D00-B65B-1E98F1F4937F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional_array2_with_random_values", "..\Multidimensional_array2_with_random_values\Multidimensional_array2_with_random_values.csproj", "{B440F02F-9D0E-433C-A36D-EEE094004350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEBD0AA-F243-4D4C-A50A-6F204425B725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEBD0AA-F243-4D4C-A50A-6F204425B725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEBD0AA-F243-4D4C-A50A-6F204425B725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEBD0AA-F243-4D4C-A50A-6F204425B725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08FE526-7F98-4A2D-9068-EADB47A94970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08FE526-7F98-4A2D-9068-EADB47A94970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08FE526-7F98-4A2D-9068-EADB47A94970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08FE526-7F98-4A2D-9068-EADB47A94970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC029B4-E26E-44F2-9C9B-B1C3E7507B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC029B4-E26E-44F2-9C9B-B1C3E7507B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC029B4-E26E-44F2-9C9B-B1C3E7507B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC029B4-E26E-44F2-9C9B-B1C3E7507B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F98DCD0-0BE0-4D00-B65B-1E98F1F4937F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F98DCD0-0BE0-4D00-B65B-1E98F1F4937F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F98DCD0-0BE0-4D00-B65B-1E98F1F4937F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F98DCD0-0BE0-4D00-B65B-1E98F1F4937F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B440F02F-9D0E-433C-A36D-EEE094004350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B440F02F-9D0E-433C-A36D-EEE094004350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B440F02F-9D0E-433C-A36D-EEE094004350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B440F02F-9D0E-433C-A36D-EEE094004350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9210D88-23B5-4C96-96CD-7B0038053A18}
+	EndGlobalSection
+EndGlobal

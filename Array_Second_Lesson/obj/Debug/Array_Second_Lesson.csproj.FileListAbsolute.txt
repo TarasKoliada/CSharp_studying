@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Array_Second_Lesson\bin\Debug\Array_Second_Lesson.exe.config
+D:\Visual Studio\works\С#\Array_Second_Lesson\bin\Debug\Array_Second_Lesson.exe
+D:\Visual Studio\works\С#\Array_Second_Lesson\bin\Debug\Array_Second_Lesson.pdb
+D:\Visual Studio\works\С#\Array_Second_Lesson\obj\Debug\Array_Second_Lesson.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Array_Second_Lesson\obj\Debug\Array_Second_Lesson.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Array_Second_Lesson\obj\Debug\Array_Second_Lesson.exe
+D:\Visual Studio\works\С#\Array_Second_Lesson\obj\Debug\Array_Second_Lesson.pdb

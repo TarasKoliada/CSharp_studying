@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\Multidimensional_array2_with_random_values\bin\Debug\Multidimensional_array2_with_random_values.exe.config
+D:\Visual Studio\works\С#\Multidimensional_array2_with_random_values\bin\Debug\Multidimensional_array2_with_random_values.exe
+D:\Visual Studio\works\С#\Multidimensional_array2_with_random_values\bin\Debug\Multidimensional_array2_with_random_values.pdb
+D:\Visual Studio\works\С#\Multidimensional_array2_with_random_values\obj\Debug\Multidimensional_array2_with_random_values.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Multidimensional_array2_with_random_values\obj\Debug\Multidimensional_array2_with_random_values.exe
+D:\Visual Studio\works\С#\Multidimensional_array2_with_random_values\obj\Debug\Multidimensional_array2_with_random_values.pdb

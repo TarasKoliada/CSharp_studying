@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\Methods2\bin\Debug\Methods2.exe.config
+D:\Visual Studio\works\С#\Methods2\bin\Debug\Methods2.exe
+D:\Visual Studio\works\С#\Methods2\bin\Debug\Methods2.pdb
+D:\Visual Studio\works\С#\Methods2\obj\Debug\Methods2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Methods2\obj\Debug\Methods2.exe
+D:\Visual Studio\works\С#\Methods2\obj\Debug\Methods2.pdb

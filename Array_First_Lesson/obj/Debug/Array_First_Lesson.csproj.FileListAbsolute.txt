@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Array_First_Lesson\bin\Debug\Array_First_Lesson.exe.config
+D:\Visual Studio\works\С#\Array_First_Lesson\bin\Debug\Array_First_Lesson.exe
+D:\Visual Studio\works\С#\Array_First_Lesson\bin\Debug\Array_First_Lesson.pdb
+D:\Visual Studio\works\С#\Array_First_Lesson\obj\Debug\Array_First_Lesson.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Array_First_Lesson\obj\Debug\Array_First_Lesson.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Array_First_Lesson\obj\Debug\Array_First_Lesson.exe
+D:\Visual Studio\works\С#\Array_First_Lesson\obj\Debug\Array_First_Lesson.pdb

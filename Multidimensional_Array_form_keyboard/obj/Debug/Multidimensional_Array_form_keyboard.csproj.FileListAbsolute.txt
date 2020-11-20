@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Multidimensional_Array_form_keyboard\bin\Debug\Multidimensional_Array_form_keyboard.exe.config
+D:\Visual Studio\works\С#\Multidimensional_Array_form_keyboard\bin\Debug\Multidimensional_Array_form_keyboard.exe
+D:\Visual Studio\works\С#\Multidimensional_Array_form_keyboard\bin\Debug\Multidimensional_Array_form_keyboard.pdb
+D:\Visual Studio\works\С#\Multidimensional_Array_form_keyboard\obj\Debug\Multidimensional_Array_form_keyboard.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Multidimensional_Array_form_keyboard\obj\Debug\Multidimensional_Array_form_keyboard.exe
+D:\Visual Studio\works\С#\Multidimensional_Array_form_keyboard\obj\Debug\Multidimensional_Array_form_keyboard.pdb
+D:\Visual Studio\works\С#\Multidimensional_Array_form_keyboard\obj\Debug\Multidimensional_Array_form_keyboard.csprojAssemblyReference.cache

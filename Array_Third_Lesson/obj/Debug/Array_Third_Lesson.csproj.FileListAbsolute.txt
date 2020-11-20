@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Array_Third_Lesson\bin\Debug\Array_Third_Lesson.exe.config
+D:\Visual Studio\works\С#\Array_Third_Lesson\bin\Debug\Array_Third_Lesson.exe
+D:\Visual Studio\works\С#\Array_Third_Lesson\bin\Debug\Array_Third_Lesson.pdb
+D:\Visual Studio\works\С#\Array_Third_Lesson\obj\Debug\Array_Third_Lesson.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Array_Third_Lesson\obj\Debug\Array_Third_Lesson.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Array_Third_Lesson\obj\Debug\Array_Third_Lesson.exe
+D:\Visual Studio\works\С#\Array_Third_Lesson\obj\Debug\Array_Third_Lesson.pdb

@@ -1,0 +1,13 @@
+D:\Visual Studio\works\С#\dotNET_CORE\bin\Debug\netcoreapp3.1\dotNET_CORE.exe
+D:\Visual Studio\works\С#\dotNET_CORE\bin\Debug\netcoreapp3.1\dotNET_CORE.deps.json
+D:\Visual Studio\works\С#\dotNET_CORE\bin\Debug\netcoreapp3.1\dotNET_CORE.runtimeconfig.json
+D:\Visual Studio\works\С#\dotNET_CORE\bin\Debug\netcoreapp3.1\dotNET_CORE.runtimeconfig.dev.json
+D:\Visual Studio\works\С#\dotNET_CORE\bin\Debug\netcoreapp3.1\dotNET_CORE.dll
+D:\Visual Studio\works\С#\dotNET_CORE\bin\Debug\netcoreapp3.1\dotNET_CORE.pdb
+D:\Visual Studio\works\С#\dotNET_CORE\obj\Debug\netcoreapp3.1\dotNET_CORE.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\dotNET_CORE\obj\Debug\netcoreapp3.1\dotNET_CORE.AssemblyInfoInputs.cache
+D:\Visual Studio\works\С#\dotNET_CORE\obj\Debug\netcoreapp3.1\dotNET_CORE.AssemblyInfo.cs
+D:\Visual Studio\works\С#\dotNET_CORE\obj\Debug\netcoreapp3.1\dotNET_CORE.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\dotNET_CORE\obj\Debug\netcoreapp3.1\dotNET_CORE.dll
+D:\Visual Studio\works\С#\dotNET_CORE\obj\Debug\netcoreapp3.1\dotNET_CORE.pdb
+D:\Visual Studio\works\С#\dotNET_CORE\obj\Debug\netcoreapp3.1\dotNET_CORE.genruntimeconfig.cache

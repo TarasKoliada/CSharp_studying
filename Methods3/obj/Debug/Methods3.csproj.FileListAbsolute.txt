@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\Methods3\bin\Debug\Methods3.exe.config
+D:\Visual Studio\works\С#\Methods3\bin\Debug\Methods3.exe
+D:\Visual Studio\works\С#\Methods3\bin\Debug\Methods3.pdb
+D:\Visual Studio\works\С#\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Methods3\obj\Debug\Methods3.exe
+D:\Visual Studio\works\С#\Methods3\obj\Debug\Methods3.pdb

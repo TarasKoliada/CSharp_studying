@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Array_4_lesson\bin\Debug\Array_4_lesson.exe.config
+D:\Visual Studio\works\С#\Array_4_lesson\bin\Debug\Array_4_lesson.exe
+D:\Visual Studio\works\С#\Array_4_lesson\bin\Debug\Array_4_lesson.pdb
+D:\Visual Studio\works\С#\Array_4_lesson\obj\Debug\Array_4_lesson.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Array_4_lesson\obj\Debug\Array_4_lesson.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Array_4_lesson\obj\Debug\Array_4_lesson.exe
+D:\Visual Studio\works\С#\Array_4_lesson\obj\Debug\Array_4_lesson.pdb
