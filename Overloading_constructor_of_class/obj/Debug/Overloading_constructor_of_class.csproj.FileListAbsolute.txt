@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Overloading_constructor_of_class\bin\Debug\Overloading_constructor_of_class.exe.config
+D:\Visual Studio\works\С#\Overloading_constructor_of_class\bin\Debug\Overloading_constructor_of_class.exe
+D:\Visual Studio\works\С#\Overloading_constructor_of_class\bin\Debug\Overloading_constructor_of_class.pdb
+D:\Visual Studio\works\С#\Overloading_constructor_of_class\obj\Debug\Overloading_constructor_of_class.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Overloading_constructor_of_class\obj\Debug\Overloading_constructor_of_class.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Overloading_constructor_of_class\obj\Debug\Overloading_constructor_of_class.exe
+D:\Visual Studio\works\С#\Overloading_constructor_of_class\obj\Debug\Overloading_constructor_of_class.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\public_private\bin\Debug\public_private.exe.config
+D:\Visual Studio\works\С#\public_private\bin\Debug\public_private.exe
+D:\Visual Studio\works\С#\public_private\bin\Debug\public_private.pdb
+D:\Visual Studio\works\С#\public_private\obj\Debug\public_private.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\public_private\obj\Debug\public_private.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\public_private\obj\Debug\public_private.exe
+D:\Visual Studio\works\С#\public_private\obj\Debug\public_private.pdb

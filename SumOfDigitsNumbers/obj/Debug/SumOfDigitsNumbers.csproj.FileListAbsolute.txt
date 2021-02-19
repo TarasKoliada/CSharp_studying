@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\SumOfDigitsNumbers\bin\Debug\SumOfDigitsNumbers.exe.config
+D:\Visual Studio\works\С#\SumOfDigitsNumbers\bin\Debug\SumOfDigitsNumbers.exe
+D:\Visual Studio\works\С#\SumOfDigitsNumbers\bin\Debug\SumOfDigitsNumbers.pdb
+D:\Visual Studio\works\С#\SumOfDigitsNumbers\obj\Debug\SumOfDigitsNumbers.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\SumOfDigitsNumbers\obj\Debug\SumOfDigitsNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\SumOfDigitsNumbers\obj\Debug\SumOfDigitsNumbers.exe
+D:\Visual Studio\works\С#\SumOfDigitsNumbers\obj\Debug\SumOfDigitsNumbers.pdb

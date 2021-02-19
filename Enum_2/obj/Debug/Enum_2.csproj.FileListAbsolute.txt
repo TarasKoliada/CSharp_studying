@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\Enum_2\bin\Debug\Enum_2.exe.config
+D:\Visual Studio\works\С#\Enum_2\bin\Debug\Enum_2.exe
+D:\Visual Studio\works\С#\Enum_2\bin\Debug\Enum_2.pdb
+D:\Visual Studio\works\С#\Enum_2\obj\Debug\Enum_2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Enum_2\obj\Debug\Enum_2.exe
+D:\Visual Studio\works\С#\Enum_2\obj\Debug\Enum_2.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\Methods_2\bin\Debug\Methods_2.exe.config
+D:\Visual Studio\works\С#\Methods_2\bin\Debug\Methods_2.exe
+D:\Visual Studio\works\С#\Methods_2\bin\Debug\Methods_2.pdb
+D:\Visual Studio\works\С#\Methods_2\obj\Debug\Methods_2.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\Methods_2\obj\Debug\Methods_2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\Methods_2\obj\Debug\Methods_2.exe
+D:\Visual Studio\works\С#\Methods_2\obj\Debug\Methods_2.pdb

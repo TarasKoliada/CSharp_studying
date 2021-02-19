@@ -1,0 +1,7 @@
+D:\Visual Studio\works\С#\properties_Get_Set\bin\Debug\properties_Get_Set.exe.config
+D:\Visual Studio\works\С#\properties_Get_Set\bin\Debug\properties_Get_Set.exe
+D:\Visual Studio\works\С#\properties_Get_Set\bin\Debug\properties_Get_Set.pdb
+D:\Visual Studio\works\С#\properties_Get_Set\obj\Debug\properties_Get_Set.csprojAssemblyReference.cache
+D:\Visual Studio\works\С#\properties_Get_Set\obj\Debug\properties_Get_Set.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\properties_Get_Set\obj\Debug\properties_Get_Set.exe
+D:\Visual Studio\works\С#\properties_Get_Set\obj\Debug\properties_Get_Set.pdb

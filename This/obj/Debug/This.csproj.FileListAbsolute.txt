@@ -1,0 +1,6 @@
+D:\Visual Studio\works\С#\This\bin\Debug\This.exe.config
+D:\Visual Studio\works\С#\This\bin\Debug\This.exe
+D:\Visual Studio\works\С#\This\bin\Debug\This.pdb
+D:\Visual Studio\works\С#\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+D:\Visual Studio\works\С#\This\obj\Debug\This.exe
+D:\Visual Studio\works\С#\This\obj\Debug\This.pdb
